@@ -1,0 +1,4 @@
+ask myprofile for my emp id
+ask myprofile for my role
+ask myprofile for my base location
+ask myprofile for my current location
